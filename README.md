@@ -20,4 +20,5 @@ admin 管理员端
 5.广告管理
 6.管理员账号管理 (bcrypt散列加密)
 7.本地图片上传 (multer)
+8.登录模块使用接口 (jwt,jsonwebtoken)进行服务端登录校验
 
